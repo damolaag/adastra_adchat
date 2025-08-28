@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body style: "background-style: black;">
+    <script
+  data-creative-id='51800-52629-53597-82670'
+  data-timestamp='2025-08-28T15:13:11.844Z'
+>
+(function() {
+  var s   = document.createElement('script');
+  s.src   = 'https://delivery-3.cavai.com/assets/creatives/82670/cmevidurz06ec50j4e9ll1utu/built/assets/stub.js?bust='+Date.now();
+  s.async = true;
+  s.setAttribute('data-click-macro', '{CLICK_URL}');
+  s.setAttribute('data-domain', '{pageurl}');
+  s.setAttribute('data-dsp', 'ZEM');
+  s.setAttribute('data-gdpr', '${GDPR}');
+  s.setAttribute('data-gdpr-consent', '${GDPR_CONSENT_755}');
+  document.head.appendChild(s);
+})();
+</script>
+  
+</body>
+</html>
